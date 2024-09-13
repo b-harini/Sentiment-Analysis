@@ -1,12 +1,18 @@
 # Sentiment Analysis of Mailing Lists
 Project Overview
+
 This repository contains the code and report for my dissertation, which focuses on sentiment analysis of mailing lists using various natural language processing (NLP) and machine learning models. The project evaluates the effectiveness of three sentiment analysis techniques: VADER, BERT, and DistilBERT, and provides insights into the emotional tone of mailing list communications.
 
 Dissertation Details
+
 Author: Harini Balaji
+
 Institution: University of Sheffield
+
 Degree: Msc Data Analytics
+
 Dissertation Title: Sentiment Analysis of Mailing Lists
+
 Submission Date: 10-09-2024
 
 
